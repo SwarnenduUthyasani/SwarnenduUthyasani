@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on the Emergency Broadcasting System<br>Ask me about Valorant<br>
+I’m currently working on Emergency Broadcasting System<br>Ask me about Valorant<br>
 
 
 # 💾Dev Quote:
