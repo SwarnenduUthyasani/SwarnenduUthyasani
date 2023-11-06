@@ -2,8 +2,8 @@
 I’m currently working on the Emergency Broadcasting System<br>Ask me about Valorant<br>
 
 
-# Dev Quote:
-"Design is not what it looks like and feels like. Design is how it works."
+# 💾Dev Quote:
+"Design is not what it looks like and feels like. Design is how it works." - Steve Jobs
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SwarnenduUthyasani) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/George_Max) 
